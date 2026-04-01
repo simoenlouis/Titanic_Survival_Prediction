@@ -3,7 +3,7 @@
 This repository contains my solution for the famous Titanic Kaggle competition. The goal is to predict which passengers survived the tragedy.
 
 ## Performance
-- *Kaggle Public Score:* 0.78229
+- *Kaggle Public Score:* 0.79186
 - *Current Rank:* Top 20% of participants
 
 ## Tools & Models Used
