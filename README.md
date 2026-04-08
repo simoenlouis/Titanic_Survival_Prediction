@@ -17,4 +17,5 @@ This repository contains my solution for the famous Titanic Kaggle competition. 
 
 ## Author
 - Simoen Louis
+
 - GitHub: simoenlouis
