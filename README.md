@@ -14,3 +14,7 @@ This repository contains my solution for the famous Titanic Kaggle competition. 
 - Handled missing values (Age, Fare, Embarked).
 - Standardized numerical data using StandardScaler.
 - Encoded categorical variables for the model.
+
+## Author
+- Simoen Louis
+- GitHub: simoenlouis
