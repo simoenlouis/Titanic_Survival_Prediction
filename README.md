@@ -15,7 +15,3 @@ This repository contains my solution for the famous Titanic Kaggle competition. 
 - Standardized numerical data using StandardScaler.
 - Encoded categorical variables for the model.
 
-## Author
-- Simoen Louis
-
-- GitHub: simoenlouis
